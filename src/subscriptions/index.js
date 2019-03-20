@@ -1,5 +1,7 @@
 const eventCreated = require('./eventCreated')
+const payinCreated = require('./payinCreated')
 
 module.exports = {
-  eventCreated
+  eventCreated,
+  payinCreated
 }
